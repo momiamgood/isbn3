@@ -1,0 +1,19 @@
+{
+    "name": "momiamgood/isbn",
+    "description": "generate isbn",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Momiamgood\\Isbn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "momiamgood",
+            "email": "forstuding411@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
